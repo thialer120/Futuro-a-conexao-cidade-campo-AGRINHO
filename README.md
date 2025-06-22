@@ -4,7 +4,7 @@ Este é um site feito como projeto pessoal para o concurso Agrinho, com foco em 
 
 O objetivo é mostrar como a conexão entre cidade e o campo é essencial e complexa para promover **sustentabilidade, tecnologia e qualidade de vida**.
 
-[Acesse o site]()
+[Acesse o site](https://thialer120.github.io/Futuro-a-conexao-cidade-campo-AGRINHO/)
 
 ---
 
@@ -55,7 +55,7 @@ PROJETO AGRINHO/
 
 1. Clone este repositório:  
    ```bash
-   git clone https://
+   git clone https://thialer120.github.io/Futuro-a-conexao-cidade-campo-AGRINHO/
 Abra o arquivo index.html em qualquer navegador moderno.
 
 Autor
